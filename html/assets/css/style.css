@@ -26,7 +26,7 @@ section {
 }
 
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('../banner.png');
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('/html/assets/images/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
@@ -100,7 +100,7 @@ section {
 }
 #transform-world {
     height: 560px;
-    background-image: url('/assets/images/woman-code.png');
+    background-image: url('/html/assets/images/woman-code.png');
     background-size: cover;
     background-attachment: fixed;
     border-top: 1px solid #33A8DB80;
